@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/iberiaz9/myBlog/posts/post-with-code/index.html</loc>
-    <lastmod>2023-11-29T22:23:25.049Z</lastmod>
+    <loc>https://iberiaz9.github.io/myBlog/posts/welcome/index.html</loc>
+    <lastmod>2023-11-29T22:28:26.643Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/iberiaz9/myBlog/about.html</loc>
-    <lastmod>2023-11-29T22:23:24.561Z</lastmod>
+    <loc>https://iberiaz9.github.io/myBlog/index.html</loc>
+    <lastmod>2023-11-29T22:28:25.529Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/iberiaz9/myBlog/index.html</loc>
-    <lastmod>2023-11-29T22:23:24.053Z</lastmod>
+    <loc>https://iberiaz9.github.io/myBlog/about.html</loc>
+    <lastmod>2023-11-29T22:28:24.654Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/iberiaz9/myBlog/posts/welcome/index.html</loc>
-    <lastmod>2023-11-29T22:23:24.801Z</lastmod>
+    <loc>https://iberiaz9.github.io/myBlog/posts/post-with-code/index.html</loc>
+    <lastmod>2023-11-29T22:28:26.131Z</lastmod>
   </url>
 </urlset>

@@ -1,1 +1,1 @@
-Sitemap: https://github.com/iberiaz9/myBlog/sitemap.xml
+Sitemap: https://iberiaz9.github.io/myBlog/sitemap.xml
