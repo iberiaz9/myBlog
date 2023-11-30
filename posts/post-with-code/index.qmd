@@ -3,7 +3,7 @@ title: "Post Without Code"
 author: "Harlow Malloc"
 date: "2023-11-28"
 categories: [news, analysis]
-image: "image.jpg"
+image: "image.png"
 ---
 
 This is a post with executable code.
